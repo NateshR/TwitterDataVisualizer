@@ -1,0 +1,10 @@
+*metadata*
+*.xmi
+*/bin/*
+*/gen/*
+*/.settings*
+*.gradle*
+*.idea*
+*.recommenders*
+.DS_Store
+*.classpath*

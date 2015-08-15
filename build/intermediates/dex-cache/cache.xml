@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/libs/twitter4j-core-4.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="cb244e5be126bf0a8114c8a64a5d26c6490b9ef2">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.3-b147b1fe73bd8b80f0bffca6e70fa238c4142ef5.jar" />
+    </item>
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/classes-33beaf5adfc938c737d564baff4fe1a650ad6c0e.jar" />
+    </item>
+    <item
+        jar="/home/natesh/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-49f32db540ccf2b455c318c1c2c4fa94bd0ea2a0.jar" />
+    </item>
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/gson-2.3.1-d9ad9222510be2e9fba987a438ca9b355afa83fd.jar" />
+    </item>
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/classes-3dbd74967ccfbaeccfdb64af6bf4aec0472d0b41.jar" />
+    </item>
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/libs/signpost-commonshttp4-1.2.1.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="731e05de30cfeb1f41d417f886277f9597fe0f36">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/signpost-commonshttp4-1.2.1.2-d132d855a29d42102012c46d5999662aeaf2b3bb.jar" />
+    </item>
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/classes-02d63f66e646c92db6cdfa0ae6e55c8c4f4596e2.jar" />
+    </item>
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/libs/signpost-core-1.2.1.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/signpost-core-1.2.1.2-08195b972992843b18995ca686a06f2afd0f5363.jar" />
+    </item>
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a57275f679ef699577cbb490159f5287838942a9.jar" />
+    </item>
+    <item
+        jar="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/libs/twitter4j-stream-4.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="c1f4246bfa236d9f1eb5cf986e1367005a48cbfe">
+        <dex dex="/home/natesh/GSOC_Projects/fossasia-companion-android/TwitterDataVisualizer/app/build/intermediates/pre-dexed/debug/twitter4j-stream-4.0.3-fdf6f992d8e55b0391313254eaf028188b435170.jar" />
+    </item>
+
+</items>
